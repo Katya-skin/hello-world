@@ -1,0 +1,24 @@
+Name:Anna
+Surname:Petruk
+Student's ID:IH123456
+Course:2
+City:Kyiv
+Street:Borshahivska
+Phone number:+380931078654
+#
+Name:Ihor
+Surname:Kruhlov
+Student's ID:IG123478
+Course:2
+City:Kyiv
+Street:Polova
+Phone number:+380931076593
+#
+Name:Sofiia
+Surname:Yermolaieva
+Student's ID:OL098765
+Course:2
+City:Kyiv
+Street:Nizynska
+Phone number:+380931074594
+#

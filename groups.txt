@@ -1,0 +1,54 @@
+Group name :217
+List:
+Name:Anna
+Surname:Petruk
+Student's ID:IH123456
+Course:2
+City:Kyiv
+Street:Borshahivska
+Phone number:+380931078654
+#
+Name:Denis
+Surname:Sapozhkov
+Student's ID:OL098765
+Course:2
+City:Kyiv
+Street:Polova
+Phone number:+380956745893
+#
+Name:Anna
+Surname:Vovk
+Student's ID:OL123456
+Course:2
+City:Kyiv
+Street:Borshahivska
+Phone number:+380931876593
+#
+Name:Kate
+Surname:Buhaichuk
+Student's ID:OL126789
+Course:2
+City:Kyiv
+Street:Polova
+Phone number:+380967548123
+#
+Name:Petro
+Surname:Poroshenko
+Student's ID:IK098765
+Course:2
+City:Kyiv
+Street:Polova
+Phone number:+380956742315
+#
+*
+Group name :218
+List:
+Name:Oleksandr
+Surname:Piroh
+Student's ID:PL098765
+Course:2
+City:Kyiv
+Street:Levobereznaya
+Phone number:+380506742356
+#
+*

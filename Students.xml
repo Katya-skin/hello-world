@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Deanery>
+  <Group Number="217">
+    <Student Name="Anton" Surname="Dubravskiy" Course="2" Gradebook="BN-00000000" Address="Kiev, Nizhinska 29d" Phone="938512513" />
+    <Student Name="Kate" Surname="Bishop" Course="2" Gradebook="BN-00011111" Address="Kiev, Nizhinska 29d" Phone="939812513" />
+    <Student Name="Lassy" Surname="Gameson" Course="2" Gradebook="BN-11111161" Address="Kiev, Nizhinska 29d" Phone="935712513" />
+    <Student Name="Day" Surname="Newbee" Course="2" Gradebook="BN-11181111" Address="Kiev, Nizhinska 29d" Phone="935712513" />
+    <Student Name="Khris" Surname="Lordy" Course="2" Gradebook="BN-11111001" Address="Kiev, Nizhinska 29d" Phone="935712513" />
+    <Teacher Name="Andrew" Surname="Polanski">
+      <Subject Name="Math" />
+    </Teacher>
+    <Teacher Name="Steve" Surname="Gov">
+      <Subject Name="Pshychology" />
+    </Teacher>
+    <Teacher Name="Drue" Surname="Slam">
+      <Subject Name="Discrete math" />
+    </Teacher>
+    <Teacher Name="Kate" Surname="Andrew">
+      <Subject Name="OOP" />
+    </Teacher>
+  </Group>
+  <Group Number="218">
+    <Student Name="Dan" Surname="Cowboy" Course="2" Gradebook="BN-11181111" Address="Kiev, Nizhinska 29d" Phone="935712513" />
+    <Student Name="Kristopher" Surname="Accler" Course="2" Gradebook="BN-11111001" Address="Kiev, Nizhinska 29d" Phone="935712513" />
+    <Teacher Name="Kate" Surname="Andrew">
+      <Subject Name="OOP" />
+    </Teacher>
+  </Group>
+  <Group Number="219">
+    <Student Name="Jennifer" Surname="Watford" Course="2" Gradebook="BN-11181111" Address="Kiev, Nizhinska 29d" Phone="935712513" />
+    <Teacher Name="Kate" Surname="Andrew">
+      <Subject Name="OOP" />
+    </Teacher>
+  </Group>
+  <Group Number="220" />
+</Deanery>
