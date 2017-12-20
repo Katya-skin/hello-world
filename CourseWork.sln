@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CourseWork", "CourseWork\CourseWork.csproj", "{83A954ED-7077-494B-A294-04F376512622}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgramOperations", "..\ProgramOperations\ProgramOperations\ProgramOperations.csproj", "{E521483C-488A-468D-8156-731677206F8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83A954ED-7077-494B-A294-04F376512622}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83A954ED-7077-494B-A294-04F376512622}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83A954ED-7077-494B-A294-04F376512622}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83A954ED-7077-494B-A294-04F376512622}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E521483C-488A-468D-8156-731677206F8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E521483C-488A-468D-8156-731677206F8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E521483C-488A-468D-8156-731677206F8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E521483C-488A-468D-8156-731677206F8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
